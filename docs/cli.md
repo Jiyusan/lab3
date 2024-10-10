@@ -3,4 +3,5 @@
 - CAT command reads each file and outputs it into a viewable format
 
 
+
 [CLI commands] (docs/cli.md)
